@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Euclid mở rộng và ứng dụng'
 subtitle: 'Math&Algo are best friend forever!'
-date: '2019-07-07'
+date: '2019-12-12'
 tags:
 - num theory
 - basic
