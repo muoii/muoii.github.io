@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Số học cơ bản'
 subtitle: 'Math&Algo are best friend forever!'
-date: '2019-07-07'
+date: '2019-10-22'
 tags:
 - num theory
 - basic

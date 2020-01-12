@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Tổ hợp - xác suất'
 subtitle: 'Math&Algorithm are best friend'
-date: '2019-07-07'
+date: '2019-09-11'
 tags:
 - math
 ---

@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Multiplicative Function'
 subtitle: 'Math&Algorithm are best friend'
-date: '2019-07-10'
+date: '2020-01-02'
 tags:
 - math
 ---
