@@ -4,6 +4,8 @@ published: true
 title: 'Chạy trốn nỗi đau'
 subtitle:
 date: '2020-05-17'
+tags:
+- nkdd
 ---
 
 ## ĐỊNH NGHĨA:
