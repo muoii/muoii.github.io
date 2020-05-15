@@ -1,11 +1,9 @@
 ---
 layout: nkdd
 published: true
-title: 'Multiplicative Function'
+title: 'Chạy trốn nổi đau'
 subtitle:
 date: '2020-05-17'
-tags:
-- math
 ---
 
 ## ĐỊNH NGHĨA:
