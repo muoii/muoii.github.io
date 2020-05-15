@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 published: true
 title: 'Chạy trốn nỗi đau'
 subtitle:
