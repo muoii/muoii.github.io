@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: 'Chạy trốn nổi đau'
+title: 'Chạy trốn nỗi đau'
 subtitle:
 date: '2020-05-17'
 ---
