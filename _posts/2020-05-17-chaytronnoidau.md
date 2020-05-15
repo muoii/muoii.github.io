@@ -1,5 +1,5 @@
 ---
-layout: nkdd
+layout: page
 published: true
 title: 'Chạy trốn nổi đau'
 subtitle:
