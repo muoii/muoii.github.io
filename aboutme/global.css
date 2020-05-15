@@ -1,0 +1,58 @@
+.bg-black{
+    background-color: black;
+}
+
+.bg-pink{
+    background-color: lightpink;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.float-auto{
+    float: auto;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.camera{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.colpost{
+    display: flex;
+    flex-direction: column;
+    justify-items: space-around;
+    max-width: 33%;
+}
+
+.post-normal{
+    display: block;
+    max-width: 100%;
+    min-height: 20px;
+    height: auto;
+    border: 1px solid white;
+    margin-bottom: 1.1%;
+}
+
+.post-normal:hover{
+   transform: scale(1.02,1.02); 
+}
+
+.post-2light{
+    max-width: 60%;
+}
