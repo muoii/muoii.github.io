@@ -56,3 +56,20 @@
 .post-2light{
     max-width: 60%;
 }
+
+iframe{
+    display: block;
+}
+
+.youtube-9-16{
+    display: block;
+    max-width: 100%;
+    height: auto ;
+    height: calc(100vw*9.1/16);
+    border: 1px solid white;
+    margin-bottom: 1.1%;
+}
+
+.youtube-9-16:hover{
+    transform: scale(1.02,1.02); 
+ }
