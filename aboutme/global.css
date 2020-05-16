@@ -65,7 +65,7 @@ iframe{
     display: block;
     max-width: 100%;
     height: auto ;
-    height: calc(100vw*9.102/16);
+    height: calc(100vw*9.25/16);
     border: 1px solid white;
     margin-bottom: 1.1%;
 }
