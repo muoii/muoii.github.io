@@ -8,10 +8,6 @@ image: "/img/avt.jpg"
 bigimg: "/img/luvcodig.jpg"
 ---
 
-<audio autoplay autobuffer>
-        <source src="audio/nkdd-audio.mp3" type="audio/mpeg">
-</audio>
-
 <div class="posts-list">
   {% for post in site.posts %}
   <article class="post-preview">
@@ -62,6 +58,10 @@ bigimg: "/img/luvcodig.jpg"
    </article>
   {% endfor %}
 </div>
+
+<audio autoplay autobuffer>
+        <source src="audio/nkdd-audio.mp3" type="audio/mpeg">
+</audio>
 
 {% if site.total_pages > 1 %}
 <ul class="pager main-pager">
